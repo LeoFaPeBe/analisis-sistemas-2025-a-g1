@@ -1,0 +1,5 @@
+Para fomentar la colaboración radical y centrar el diseño en los usuarios, se pueden utilizar diversas actividades dentro del proceso de Design Thinking. No es necesario emplearlas todas en cada proyecto, pero pueden ayudar a generar ideas innovadoras, crear prototipos y evaluar soluciones.  
+
+Antes de comenzar, es fundamental preparar el espacio de trabajo con herramientas como notas adhesivas, pizarras o software de colaboración si se trabaja en línea. El objetivo principal no es obtener un producto final, sino alinear al equipo en los próximos pasos a seguir.  
+
+Para una mejor participación, se recomienda moverse e incluir diversas perspectivas. En equipos grandes, dividir en grupos pequeños favorece debates más efectivos y luego compartir ideas con el grupo completo ayuda a generar consenso.
