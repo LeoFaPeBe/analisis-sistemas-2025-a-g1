@@ -14,3 +14,5 @@ El objetivo es facilitar la colaboración dinámica y la generación de ideas en
 En muchas ocasiones, no es posible trabajar en persona. Aunque el **Design Thinking** suele ser más efectivo cuando el equipo está reunido físicamente, también se puede llevar a cabo de manera virtual utilizando herramientas de colaboración en línea. Existen diversas opciones que facilitan la realización de actividades de forma remota. Lo importante es seleccionar la herramienta adecuada para las necesidades y dinámica de su equipo.
 
 Podras encontrar las diferentes categorias en la carpeta img, cada una con su informacion.
+
+==========================================================
